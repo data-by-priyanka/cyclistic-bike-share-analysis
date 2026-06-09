@@ -11,8 +11,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
 
----
-
 ## 📋 Project Overview
 As a junior data analyst at Cyclistic (a fictional bike-share 
 company in Chicago), I was tasked with analyzing how 
