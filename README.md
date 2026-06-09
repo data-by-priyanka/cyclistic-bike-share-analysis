@@ -1,5 +1,5 @@
 
- <img src="YOUR_CREDLY_BADGE_URL" alt="Certificate Badge" align="right" width="160" />
+ <img src="(https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url)" alt="google_badge" align="right" width="160" />
 
 # Cyclistic Bike-Share Analysis
 
