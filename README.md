@@ -6,7 +6,7 @@
     </td>
    <td width="30%" align="center">
 
-<a href="https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url">
+<a 
   <img src="./certification/google-data-analytics-professional-certificate-v-3 (1).png" width="180" alt="Google Data Analytics Professional Certificate">
 </a>
 
