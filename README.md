@@ -18,7 +18,6 @@ company in Chicago), I was tasked with analyzing how
 differently — to help the marketing team convert casual 
 riders into annual members.
 
----
 
 ## ❓ Business Question
 > *"How do annual members and casual riders use 
