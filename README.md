@@ -106,9 +106,8 @@ Following the Google Data Analytics framework:
 
 
 ## 🎓 Certification
-[![Google Data Analytics Certificate](https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-blue?logo=google)](https://www.credly.com/earner/earned/share/d266fa14-cd36-4c0b-a01e-d1e9d92515cb)
+<img src="google_data_analytics_certificate.pdf" width="150" alt="Google Data Analytics Professional Certificate">
 
-> ✅ Issued by **Google** via **Coursera** — June 2026
 ---
 
 ## 📬 Connect With Me
