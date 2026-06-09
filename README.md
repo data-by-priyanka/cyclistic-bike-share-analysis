@@ -4,12 +4,12 @@
      alt="Google Data Analytics Certificate"/>
 
 
-#  Cyclistic Bike-Share Analysis
-## Google Data Analytics Professional Certificate — Capstone Project
+Cyclistic Bike-Share Analysis
+Google Data Analytics Professional Certificate — Capstone Project
 
-<img src= [Python](https://img.shields.io/badge/Python-3.x-blue)
-<img src= [MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-<img src= [PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
 
 ---
 
