@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url">
+    <img src="https://images.credly.com/size_340x340/images/d6878b2d-c116-4447-975d-35e6480b064c/Google_Data_Analytics_Professional_Certificate.png" width="200" alt="Google Data Analytics Professional Certificate">
+  </a>
+</div>
+
 # 🚲 Cyclistic Bike-Share Analysis
 ## Google Data Analytics Professional Certificate — Capstone Project
 
