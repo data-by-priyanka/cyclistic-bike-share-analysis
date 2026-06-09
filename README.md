@@ -110,7 +110,17 @@ Following the Google Data Analytics framework:
 
 
 ## 🎓 Certification
-<img src="cyclistic-bike-share-analysis\certificate\google_data_analytics_certificate.pdf" width="150" alt="Google Data Analytics Professional Certificate">
+<div align="center">
+
+<img src="certificate/google_badge.png" 
+     width="150" 
+     alt="Google Data Analytics Certificate"/>
+
+###  Google Data Analytics Professional Certificate
+
+
+
+</div>
 
 ---
 
