@@ -4,8 +4,8 @@
      alt="Google Data Analytics Certificate"/>
 
 
-# Cyclistic Bike-Share Analysis
-# Google Data Analytics Professional Certificate — Capstone Project
+<h1> Cyclistic Bike-Share Analysis</h1>
+<h2> Google Data Analytics Professional Certificate — Capstone Project</h2>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
