@@ -1,5 +1,5 @@
 <div align="center">
-<img src="certificate/google_badge.png" width="130" alt="Google Data Analytics Certificate"/>
+<img src="certificate/google_badge.png" width="500" alt="Google Data Analytics Certificate"/>
 
 #   Cyclistic Bike-Share Analysis
 ### Google Data Analytics Professional Certificate — Capstone Project
