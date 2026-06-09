@@ -5,11 +5,10 @@
       <h3>Google Data Analytics Professional Certificate — Capstone Project</h3>
     </td>
    <td width="30%" align="center">
-
-<a 
+     
   <img src="./certification/google-data-analytics-professional-certificate-v-3 (1).png" width="180" alt="Google Data Analytics Professional Certificate">
-</a>
-
+ 
+  </td>
 <br><br>
 
 <a href="https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url">
