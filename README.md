@@ -83,28 +83,6 @@ riders into annual members.
 - Run targeted social media ads during these exact hours
 - Show cost savings of annual membership vs per-ride pricing
 
----
-
-cyclistic-bike-share-analysis/
-├── README.md            
-├── LICENSE
-├── data/                
-│   └── 202512-divvy-tripdata.csv
-├── notebooks/           
-│   └── cyclistic_analysis.ipynb
-├── sql/                 
-│   └── cyclistic_analysis.sql
-├── dashboard/           
-│   └── cyclistic_dashboard.pbix
-└── outputs/             
-    ├── clean_tripdata.csv
-    ├── analysis_summary.csv
-    └── charts/
-        ├── chart1_total_rides.png
-        ├── chart2_avg_ride_length.png
-        ├── chart3_rides_by_day.png
-        ├── chart4_rides_by_hour.png
-        └── chart5_bike_type.png
 
 ## 🔄 Data Analysis Process
 Following the Google Data Analytics framework:
