@@ -4,9 +4,13 @@
       <h1> Cyclistic Bike-Share Analysis</h1>
       <h3>Google Data Analytics Professional Certificate — Capstone Project</h3>
     </td>
-    <td style="width: 30%;">
-      <img src="google-data-analytics-professional-certificate-v-3.png" width="150" alt="Google Data Analytics Professional Certificate">
-    </td>
+   <td width="30%" align="center">
+     
+  <img src="./certification/google-data-analytics-professional-certificate-v-3 (1).png" width="180" alt="Google Data Analytics Professional Certificate">
+ 
+  </td>
+<br><br>
+</td>
   </tr>
 </table>
 
@@ -106,7 +110,8 @@ Following the Google Data Analytics framework:
 
 
 ## 🎓 Certification
-https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url
+<img src="cyclistic-bike-share-analysis\certificate\google_data_analytics_certificate.pdf" width="150" alt="Google Data Analytics Professional Certificate">
+
 ---
 
 ## 📬 Connect With Me
