@@ -106,7 +106,7 @@ Following the Google Data Analytics framework:
 
 
 ## 🎓 Certification
-<img src="google_data_analytics_certificate.pdf" width="150" alt="Google Data Analytics Professional Certificate">
+<img src="cyclistic-bike-share-analysis\certificate\google_data_analytics_certificate.pdf" width="150" alt="Google Data Analytics Professional Certificate">
 
 ---
 
