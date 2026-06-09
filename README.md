@@ -85,28 +85,26 @@ riders into annual members.
 
 ---
 
-## 📁 Project Structure
 cyclistic-bike-share-analysis/
-├── 📂 notebooks/
-│   └── cyclistic_analysis.ipynb
-├── 📂 sql/
-│   └── cyclistic_analysis.sql
-├── 📂 outputs/
-│   ├── clean_tripdata.csv
-│   ├── analysis_summary.csv
-│   └── 📂 charts/
-│       ├── chart1_total_rides.png
-│       ├── chart2_avg_ride_length.png
-│       ├── chart3_rides_by_day.png
-│       ├── chart4_rides_by_hour.png
-│       └── chart5_bike_type.png
-├── 📂 dashboard/
-│   └── cyclistic_dashboard.pbix
-├── 📂 data/
-│   └── 202512-divvy-tripdata.csv
+├── README.md            
 ├── LICENSE
-└── README.md
----
+├── data/                
+│   └── 202512-divvy-tripdata.csv
+├── notebooks/           
+│   └── cyclistic_analysis.ipynb
+├── sql/                 
+│   └── cyclistic_analysis.sql
+├── dashboard/           
+│   └── cyclistic_dashboard.pbix
+└── outputs/             
+    ├── clean_tripdata.csv
+    ├── analysis_summary.csv
+    └── charts/
+        ├── chart1_total_rides.png
+        ├── chart2_avg_ride_length.png
+        ├── chart3_rides_by_day.png
+        ├── chart4_rides_by_hour.png
+        └── chart5_bike_type.png
 
 ## 🔄 Data Analysis Process
 Following the Google Data Analytics framework:
