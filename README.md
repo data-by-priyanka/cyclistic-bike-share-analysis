@@ -10,11 +10,6 @@
  
   </td>
 <br><br>
-
-<a href="https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url">
-  Verify Certificate
-</a>
-
 </td>
   </tr>
 </table>
