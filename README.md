@@ -6,7 +6,10 @@
     </td>
    <td width="30%" align="center">
      
-  <img src="./certification/google-data-analytics-professional-certificate-v-3 (1).png" width="180" alt="Google Data Analytics Professional Certificate">
+  <img src="certificate/google_badge.png" 
+     width="150" 
+     alt="Google Data Analytics Certificate"/>
+
  
   </td>
 <br><br>
