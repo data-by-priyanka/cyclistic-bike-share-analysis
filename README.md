@@ -1,17 +1,16 @@
 
-  <img align= "right" src="certificate/google_badge.png" 
-     width="150" 
-     alt="Google Data Analytics Certificate"/>
+ <img src="YOUR_CREDLY_BADGE_URL" alt="Certificate Badge" align="right" width="160" />
 
+# Cyclistic Bike-Share Analysis
 
-<h1> Cyclistic Bike-Share Analysis</h1>
-<h2> Google Data Analytics Professional Certificate — Capstone Project</h2>
+### Google Data Analytics Professional Certificate — Capstone Project
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-8.0-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/PowerBI-Desktop-yellow?style=flat-square" />
+</p>
 
----
 
 ## 📋 Project Overview
 As a junior data analyst at Cyclistic (a fictional bike-share 
