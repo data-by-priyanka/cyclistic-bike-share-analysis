@@ -1,4 +1,4 @@
-
+<div align="center">
 <img src="certificate/google_badge.png" width="130" alt="Google Data Analytics Certificate"/>
 
 #   Cyclistic Bike-Share Analysis
@@ -8,7 +8,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)](https://mysql.com)
 [![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow?logo=powerbi)](https://powerbi.microsoft.com)
 [![Google Certificate](https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-green?logo=google)](https://coursera.org/share/461a4f13b1416e5904030a520935c175)
-
+</div>
 
 ---
 
