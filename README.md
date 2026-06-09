@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
@@ -26,9 +26,10 @@
 - [How to Run This Project](#how-to-run-this-project)
 - [Author & Contact](#author--contact)
 
+
 ---
 
-## 📋 Overview
+## Overview
 
 This project analyzes **140,000+ real bike-share rides** from Cyclistic, a fictional bike-share company in Chicago, to uncover behavioral differences between **casual riders** and **annual members**.
 
@@ -41,7 +42,7 @@ The goal is to provide data-driven marketing recommendations that help convert c
 
 ---
 
-## ❓ Business Problem
+## Business Problem
 
 Cyclistic's finance team has identified that **annual members are significantly more profitable** than casual riders. Rather than targeting new customers, the marketing director believes there is a strong opportunity to **convert existing casual riders into members**.
 
@@ -58,7 +59,7 @@ Specifically:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 | Property | Details |
 |---|---|
@@ -69,7 +70,7 @@ Specifically:
 | Columns | 13 original + 5 engineered |
 | License | Public data — [Divvy License](https://divvybikes.com/data-license-agreement) |
 
-### 📊 Original Columns:
+### Original Columns:
 | Column | Description |
 |---|---|
 | `ride_id` | Unique identifier for each ride |
@@ -82,7 +83,7 @@ Specifically:
 | `end_lat / end_lng` | GPS coordinates of end |
 | `member_casual` | Rider type (member or casual) |
 
-### 🔧 Engineered Columns:
+### Engineered Columns:
 | Column | Description |
 |---|---|
 | `ride_length` | Duration in minutes |
@@ -93,7 +94,7 @@ Specifically:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -107,7 +108,7 @@ Specifically:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 cyclistic-bike-share-analysis/
@@ -139,7 +140,7 @@ cyclistic-bike-share-analysis/
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 ### Issues Found:
 | Issue | Count | Action Taken |
@@ -159,7 +160,7 @@ cyclistic-bike-share-analysis/
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ### Rider Split:
 ```
@@ -186,7 +187,7 @@ end_lat/lng         →     122 missing  (negligible)
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ### Finding 1 — Ride Duration
 | Rider Type | Avg Ride (mins) | Median Ride (mins) |
@@ -252,7 +253,7 @@ end_lat/lng         →     122 missing  (negligible)
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ### Python Charts:
 
@@ -277,7 +278,7 @@ end_lat/lng         →     122 missing  (negligible)
 
 ---
 
-## 🏆 Top 3 Recommendations
+## Top 3 Recommendations
 
 ### 🥇 Recommendation 1 — Weekend Membership Promotion
 **Insight:** Casual riders are most active on **Saturday and Sunday**
@@ -316,7 +317,7 @@ end_lat/lng         →     122 missing  (negligible)
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### 1️⃣ Clone the repository:
 ```bash
@@ -355,7 +356,7 @@ Open with Microsoft Power BI Desktop
 
 ---
 
-## 👩‍💻 Author & Contact
+## Author & Contact
 
 **Priyanka Mishra**
 Data Analyst | Google Certified
