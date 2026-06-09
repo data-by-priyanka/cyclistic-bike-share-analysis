@@ -1,11 +1,15 @@
-<div align="center">
-  <a href="https://www.credly.com/badges/d266fa14-cd36-4c0b-a01e-d1e9d92515cb/public_url">
-    <img src="https://images.credly.com/size_340x340/images/d6878b2d-c116-4447-975d-35e6480b064c/Google_Data_Analytics_Professional_Certificate.png" width="200" alt="Google Data Analytics Professional Certificate">
-  </a>
-</div>
+<table>
+  <tr>
+    <td style="width: 70%;">
+      <h1> Cyclistic Bike-Share Analysis</h1>
+      <h3>Google Data Analytics Professional Certificate — Capstone Project</h3>
+    </td>
+    <td style="width: 30%;">
+      <img src="google-badge.png" width="150" alt="Google Data Analytics Professional Certificate">
+    </td>
+  </tr>
+</table>
 
-# 🚲 Cyclistic Bike-Share Analysis
-## Google Data Analytics Professional Certificate — Capstone Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
