@@ -5,7 +5,7 @@
       <h3>Google Data Analytics Professional Certificate — Capstone Project</h3>
     </td>
     <td style="width: 30%;">
-      <img src="google-badge.png" width="150" alt="Google Data Analytics Professional Certificate">
+      <img src="google-data-analytics-professional-certificate-v-3.png" width="150" alt="Google Data Analytics Professional Certificate">
     </td>
   </tr>
 </table>
