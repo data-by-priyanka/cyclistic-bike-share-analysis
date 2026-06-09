@@ -1,22 +1,11 @@
-<table>
-  <tr>
-    <td style="width: 70%;">
-      <h1> Cyclistic Bike-Share Analysis</h1>
-      <h3>Google Data Analytics Professional Certificate — Capstone Project</h3>
-    </td>
-   <td width="30%" align="center">
-     
-  <img src="certificate/google_badge.png" 
+
+  <img align= "right" src="certificate/google_badge.png" 
      width="150" 
      alt="Google Data Analytics Certificate"/>
 
- 
-  </td>
-<br><br>
-</td>
-  </tr>
-</table>
 
+#  Cyclistic Bike-Share Analysis
+## Google Data Analytics Professional Certificate — Capstone Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
