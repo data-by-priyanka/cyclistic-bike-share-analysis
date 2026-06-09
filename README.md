@@ -7,9 +7,11 @@
 #  Cyclistic Bike-Share Analysis
 ## Google Data Analytics Professional Certificate — Capstone Project
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
+<img src= [Python](https://img.shields.io/badge/Python-3.x-blue)
+<img src= [MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+<img src= [PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow)
+
+---
 
 ## 📋 Project Overview
 As a junior data analyst at Cyclistic (a fictional bike-share 
@@ -18,6 +20,7 @@ company in Chicago), I was tasked with analyzing how
 differently — to help the marketing team convert casual 
 riders into annual members.
 
+---
 
 ## ❓ Business Question
 > *"How do annual members and casual riders use 
