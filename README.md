@@ -164,8 +164,8 @@ cyclistic-bike-share-analysis/
 
 ### Rider Split:
 ```
-Members  👔  112,415 rides  →  80.1% of total
-Casuals  🎪   27,994 rides  →  19.9% of total
+Members     112,415 rides  →  80.1% of total
+Casuals     27,994 rides  →  19.9% of total
 ```
 
 ### Missing Values After Cleaning:
@@ -203,11 +203,11 @@ end_lat/lng         →     122 missing  (negligible)
 
 | Day | Casual Rides | Member Rides |
 |---|---|---|
-| Sunday | High ⬆️ | Low ⬇️ |
-| Monday | Low ⬇️ | High ⬆️ |
-| Tuesday | Low ⬇️ | Highest ⬆️⬆️ |
-| Wednesday | Low ⬇️ | High ⬆️ |
-| Saturday | Highest ⬆️⬆️ | Medium |
+| Sunday | High   | Low   |
+| Monday | Low   | High   |
+| Tuesday | Low   | Highest    |
+| Wednesday | Low   | High   |
+| Saturday | Highest    | Medium |
 
 > 💡 **Casuals peak on weekends** → leisure riders
 > 💡 **Members peak on weekdays** → daily commuters
@@ -249,7 +249,7 @@ end_lat/lng         →     122 missing  (negligible)
 | Busiest Day | Saturday | Tuesday |
 | Peak Hour | 3:00 PM | 5:00 PM & 8:00 AM |
 | Bike Preference | Electric | Electric |
-| Riding Purpose | 🎪 Leisure | 🏢 Commute |
+| Riding Purpose |   Leisure |   Commute |
 
 ---
 
@@ -317,44 +317,6 @@ end_lat/lng         →     122 missing  (negligible)
 
 ---
 
-## How to Run This Project
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/data-by-priyanka/cyclistic-bike-share-analysis.git
-cd cyclistic-bike-share-analysis
-```
-
-### 2️⃣ Install Python dependencies:
-```bash
-pip install pandas matplotlib seaborn jupyter mysql-connector-python
-```
-
-### 3️⃣ Run the Jupyter Notebook:
-```bash
-jupyter notebook notebooks/cyclistic_analysis.ipynb
-```
-
-### 4️⃣ Set up MySQL Database:
-```sql
-CREATE DATABASE cyclistic_db;
-USE cyclistic_db;
-```
-Then run the Python import script in the notebook to load data into MySQL.
-
-### 5️⃣ Run SQL Queries:
-```bash
-# Open in MySQL Workbench
-sql/cyclistic_analysis.sql
-```
-
-### 6️⃣ Open Power BI Dashboard:
-```
-dashboard/cyclistic_dashboard.pbix
-```
-Open with Microsoft Power BI Desktop
-
----
 
 ## Author & Contact
 
